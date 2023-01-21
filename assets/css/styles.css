@@ -1,0 +1,25 @@
+#sortable {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    width: 830px;
+}
+
+#sortable li div {
+    margin: 1px 1px 1px 1px;
+    padding: 1px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    font-size: 4em;
+    text-align: center;
+}
+
+#alignImage {
+    text-align: center;
+}
+
+ul {
+    float:left;
+    list-style: none
+}
